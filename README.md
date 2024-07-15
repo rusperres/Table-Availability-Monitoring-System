@@ -4,7 +4,7 @@
 IoT Table Availability Monitoring System using Arduino and Esp-32
 
 ### Video Demonstration
-[![Watch the video]](https://youtu.be/0E9rP-zq_Hk)
+[!Watch the video](https://youtu.be/0E9rP-zq_Hk)
 
 
 ### The Flow of Data:
