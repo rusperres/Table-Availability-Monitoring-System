@@ -15,7 +15,14 @@ I had the role of programmer while my groupmates were assigned there own tasks r
 
 This project demonstrates the potential of using IoT devices in school settings in which the students can check the availability of tables in the cafeteria for them to assess whether it is worth to go to the cafeteria or to estimate whether a table will be empty by the time they get there or not.
 
-The Flow of Data:
+
+## INSTALLATION
+
+```sh
+npm install
+```
+
+## The Flow of Data:
 IR Sensor (E18-D80NK Proximity Sensor) --->  Arduino Uno ---> Computer (Node.js Server) ---> Esp-32
 
 1. The IR Sensor is first connected to the Arduino Uno according to its specific wiring in the datasheet. In our case, the brown wire was connected to the 5V pin, blue to the ground, and black to the digital pin.
